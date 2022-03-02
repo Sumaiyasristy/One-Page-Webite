@@ -1,0 +1,33 @@
+.logo{
+    width: 30px;
+}
+.service{
+    background-color: black;
+    color: blanchedalmond;
+   
+}
+.fas{
+    font-size: 30px;
+   color: black;
+   background-color: white;
+   border-radius: 50px;
+  
+}
+.hr{
+    color: rgba(0, 0, 255, 0.11);
+    height:20px;
+}
+.last{
+    background-color: chocolate;
+}
+
+.portfolio{
+    background-color: black;
+    color: darksalmon;
+}
+.c-footer{
+    background-color: black;
+}
+.card-img-top{
+    width: 100%;
+}
